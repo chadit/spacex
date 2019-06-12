@@ -1,0 +1,17 @@
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.tests.deps.json
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.tests.runtimeconfig.json
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.tests.runtimeconfig.dev.json
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.tests.dll
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.tests.pdb
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.csprojAssemblyReference.cache
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.csproj.CoreCompileInputs.cache
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.AssemblyInfoInputs.cache
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.AssemblyInfo.cs
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.dll
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.pdb
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.dll
+/home/chadit/Projects/netcore/spacex/api.tests/bin/Debug/netcoreapp2.2/api.pdb
+/home/chadit/Projects/netcore/spacex/api.tests/obj/Debug/netcoreapp2.2/api.tests.csproj.CopyComplete

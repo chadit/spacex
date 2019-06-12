@@ -1,0 +1,14 @@
+/home/chadit/Projects/netcore/spacex/api/bin/Debug/netcoreapp2.2/api.deps.json
+/home/chadit/Projects/netcore/spacex/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/home/chadit/Projects/netcore/spacex/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/home/chadit/Projects/netcore/spacex/api/bin/Debug/netcoreapp2.2/api.dll
+/home/chadit/Projects/netcore/spacex/api/bin/Debug/netcoreapp2.2/api.pdb
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.dll
+/home/chadit/Projects/netcore/spacex/api/obj/Debug/netcoreapp2.2/api.pdb
